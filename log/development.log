@@ -153,3 +153,21 @@ Processing by ArticlesController#index as HTML
 Completed 200 OK in 63ms (Views: 57.5ms | ActiveRecord: 0.0ms | Allocations: 42599)
 
 
+Started GET "/" for ::1 at 2023-08-30 23:11:41 -0300
+Processing by ArticlesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 55.0ms | Allocations: 33499)
+Completed 200 OK in 64ms (Views: 57.1ms | ActiveRecord: 0.0ms | Allocations: 37486)
+
+
+Started GET "/" for ::1 at 2023-08-30 23:11:43 -0300
+Processing by ArticlesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 4.2ms | Allocations: 2284)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms | Allocations: 2544)
+
+
