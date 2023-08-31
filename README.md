@@ -8,3 +8,11 @@
 
 ## Heroku
 [Access server](https://esi-each-c7a57701c3fb.herokuapp.com/)
+
+## Team
+* Augusto prado Yassuda 
+* Augustus José Ribeiro de Souza
+* Breno de Gonzalez Bueno
+* Dimitri Oliveira Dabkiewicz
+* Lincoln Morale Braga
+* Wesley Silva Carneiro 
