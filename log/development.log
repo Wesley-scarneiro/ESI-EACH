@@ -171,3 +171,57 @@ Processing by ArticlesController#index as HTML
 Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms | Allocations: 2544)
 
 
+Started GET "/" for ::1 at 2023-08-31 22:08:58 -0300
+Processing by ArticlesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (Duration: 1.3ms | Allocations: 333)
+  Rendered layout layouts/application.html.erb (Duration: 59.1ms | Allocations: 33858)
+Completed 200 OK in 71ms (Views: 63.0ms | ActiveRecord: 0.0ms | Allocations: 37780)
+
+
+Started GET "/" for ::1 at 2023-08-31 22:12:10 -0300
+Processing by ArticlesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 331)
+  Rendered layout layouts/application.html.erb (Duration: 56.0ms | Allocations: 33794)
+Completed 200 OK in 64ms (Views: 58.7ms | ActiveRecord: 0.0ms | Allocations: 37714)
+
+
+Started GET "/" for ::1 at 2023-08-31 22:13:10 -0300
+Processing by ArticlesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (Duration: 3.1ms | Allocations: 146)
+  Rendered layout layouts/application.html.erb (Duration: 10.9ms | Allocations: 2685)
+Completed 200 OK in 19ms (Views: 17.5ms | ActiveRecord: 0.0ms | Allocations: 3498)
+
+
+Started GET "/" for ::1 at 2023-08-31 22:14:09 -0300
+Processing by ArticlesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (Duration: 1.2ms | Allocations: 143)
+  Rendered layout layouts/application.html.erb (Duration: 10.4ms | Allocations: 2704)
+Completed 200 OK in 17ms (Views: 14.4ms | ActiveRecord: 0.0ms | Allocations: 3518)
+
+
+Started GET "/" for ::1 at 2023-08-31 22:15:27 -0300
+Processing by ArticlesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 148)
+  Rendered layout layouts/application.html.erb (Duration: 4.6ms | Allocations: 2697)
+Completed 200 OK in 7ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 3511)
+
+
+Started GET "/" for ::1 at 2023-08-31 22:15:55 -0300
+Processing by ArticlesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 148)
+  Rendered layout layouts/application.html.erb (Duration: 21.8ms | Allocations: 2704)
+Completed 200 OK in 26ms (Views: 24.9ms | ActiveRecord: 0.0ms | Allocations: 3518)
+
+

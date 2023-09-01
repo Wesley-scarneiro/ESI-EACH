@@ -1,4 +1,5 @@
 # README
+O objetivo desta aplicação web é disponibilizar ofertas e promoções de supermercados. A ideia é possibilitar que um supermercado possa cadastrar uma conta, registrar produtos, e criar suas ofertas e promoções. Por outro lado, um usuário poderá acessar a aplicação web e com base em seu CEP ou endereço, obter as ofertas de todos os supermercados próximos da sua região.
 
 ## Bagdes
 
